@@ -22,5 +22,6 @@ Understand sales trends over time ( monthly, yearly). Identify the top-selling s
 ** using 2 Dataseta
 
 1.sales_by_makers
+
 2.sales_by_states
 
