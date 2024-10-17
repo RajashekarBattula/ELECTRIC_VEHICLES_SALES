@@ -1,7 +1,7 @@
 # ELECTRIC_VEHICLES_SALES
 ELECTRIC_VEHICLES_SALES_ANALYSIS PROJECT USING SQL
 
-This project focuses on analyzing the sales data of an electric_vehiles using SQL. The analysis helps to uncover key insights, patterns, and trends regarding electric vehicles behavior, total vehicles performance, and overall sales.
+This project focuses on analyzing the sales data of an electric_vehiles using SQL. The analysis helps to uncover key insights, patterns, and trends regarding electric vehicles adoption, total vehicles performance, and overall sales.
 
 MYSQL is much more efficient in handling large Datasets compared to Excel
 The typical Workflow before analysis involved
