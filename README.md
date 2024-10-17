@@ -19,7 +19,7 @@ checkig the missing values, duplicates, and outliers
 
 Understand sales trends over time ( monthly, yearly). Identify the top-selling states and categories. Analyze customer purchasing behavior, Track average sold vehicles values (ASV), total vehicles sold, and number of vehicles_sold. Identify locations contributing the most to the selling vehicles. Spot underperforming states or categories. Calculate penetration rates and performance metrics.
 
-** using 2 Datasers
+** using 2 Dataseta
 
 1.sales_by_makers
 2.sales_by_states
