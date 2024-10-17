@@ -5,6 +5,7 @@ This project focuses on analyzing the sales data of an electric_vehiles using SQ
 
 MYSQL is much more efficient in handling large Datasets compared to Excel
 The typical Workflow before analysis involved
+
 1.Data importing into MYSQL
 
 2.Initial Data exploration: Involed checking the various columns of the datasets ans verifying if the data types are consitent, as well as 
